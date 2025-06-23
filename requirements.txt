@@ -1,6 +1,2 @@
 streamlit
 
-If you’re using APIs or huggingface:
-
-requests
-huggingface_hub
